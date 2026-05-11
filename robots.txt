@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashokpukkalla.github.io/smartbuyerpicks/sitemap.xml
